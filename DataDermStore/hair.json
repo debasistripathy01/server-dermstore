@@ -1,0 +1,421 @@
+[
+    {
+        "id": 1,
+        "title": "Alterna CAVIAR Anti-Aging Replenishing Moisture Shampoo (16.5 fl. oz.)",
+        "price": 56,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11286095-6314966113137112.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286095-6314966113137112.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286095-1294935519495258.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286095-7924966113197331.jpg",
+        "rating": {
+          "rate": 2.8,
+          "count": 58
+        },
+        "qty": 1
+      },
+      {
+        "id": 2,
+        "title": "Alterna CAVIAR Anti-Aging Replenishing Moisture Conditioner (16.5 fl. oz.)",
+        "price": 76,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11286093-2554966112826030.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286093-2554966112826030.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286093-1554966112895936.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286093-2114935519404517.jpg",
+        "rating": {
+          "rate": 3.7,
+          "count": 76
+        },
+        "qty": 1
+      },
+      {
+        "id": 3,
+        "title": "Alterna CAVIAR Anti-Aging Replenishing Moisture CC Cream (3.4 fl. oz.)",
+        "price": 54,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11524752-9174966113265068.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11524752-9174966113265068.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11524752-1574966113332115.jpg",
+        "image3": "https://s1.thcdn.com/design-assets/images/logos/shared-brands/colour/alterna.gif",
+        "rating": {
+          "rate": 4.9,
+          "count": 122
+        },
+        "qty": 1
+      },
+      {
+        "id": 4,
+        "title": "Olaplex Limited Edition Cleanse and Treatment Bundle",
+        "price": 87,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/13462860-2144969531274424.jpg",
+        "image1": "https://static.thcdn.com/images/small/webp//productimg/original/12882753-4524945676453556.jpg",
+        "image2": "https://static.thcdn.com/images/small/webp//productimg/original/13231116-1374958142292098.jpg",
+        "image3": "https://static.thcdn.com/images/small/webp//productimg/original/13462860-2144969531274424.jpg",
+        "rating": {
+          "rate": 1.4,
+          "count": 74
+        },
+        "qty": 1
+      },
+      {
+        "id": 5,
+        "title": "Briogeo Don't Despair Repair Deep Conditioning Mask (8 oz.)",
+        "price": 99,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11128858-1184969821365946.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11128858-1184969821365946.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11128858-1894931366362362.jpg",
+        "image3": "https://s1.thcdn.com/design-assets/products/11128858/11128858/11128858-gif.gif",
+        "rating": {
+          "rate": 2.2,
+          "count": 187
+        },
+        "qty": 1
+      },
+      {
+        "id": 6,
+        "title": "Sol de Janeiro Brazilian Joia Dry Shampoo 120g",
+        "price": 37,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12865580-1554866081885372.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12865580-1554866081885372.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12865580-1524866081937521.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12865580-1764866082000125.jpg",
+        "rating": {
+          "rate": 3.4,
+          "count": 134
+        },
+        "qty": 1
+      },
+      {
+        "id": 7,
+        "title": "Oribe Gold Lust Repair Restore Shampoo (8.5 fl. oz.)",
+        "price": 68,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12915557-2954917112863726.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915557-2954917112863726.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915557-2084944407959371.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915557-1154944406874748.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 134
+        },
+        "qty": 1
+      },
+      {
+        "id": 8,
+        "title": "ghd and Charlotte Mensah Dry and Style Set (Worth $369.00)",
+        "price": 77,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/13844499-1834963559609475.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13844499-1834963559609475.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13844499-2124963559666532.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/960/960/13844499-2124963559666532.jpg",
+        "rating": {
+          "rate": 2.7,
+          "count": 345
+        },
+        "qty": 1
+      },
+      {
+        "id": 9,
+        "title": "Oribe Dry Texturizing Spray (8.5 oz.)",
+        "price": 88,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11310921-1004895711663196.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11310921-1004895711663196.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11310921-2224871819160603.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11310921-4244864292068338.jpg",
+        "rating": {
+          "rate": 3.2,
+          "count": 66
+        },
+        "qty": 1
+      },
+      {
+        "id": 10,
+        "title": "dpHUE Apple Car Vinegar Power Duo",
+        "price": 92,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/13882835-1734968958624221.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13882835-1734968958624221.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13882835-1074968958172043.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13882835-7884968958222797.jpg",
+        "rating": {
+          "rate": 3.3,
+          "count": 44
+        },
+        "qty": 1
+      },
+      {
+        "id": 11,
+        "title": "R+Co TELEVISION Perfect Hair Shampoo (Various Sizes)",
+        "price": 79,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12902037-4044866432108096.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902037-4044866432108096.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902037-1814864483331001.jpg",
+        "image3": "https://s1.thcdn.com/design-assets/images/logos/shared-brands/colour/r+co.gif",
+        "rating": {
+          "rate": 3.4,
+          "count": 169
+        },
+        "qty": 1
+      },
+      {
+        "id": 12,
+        "title": "Briogeo Scalp Revival Charcoal Coconut Oil Micro-Exfoliating Shampoo (8 oz.)",
+        "price": 58,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11128858-1184969821365946.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11447814-7584931367994566.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11447814-5364931368050519.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11447814-3924931365224936.jpg",
+        "rating": {
+          "rate": 3.5,
+          "count": 455
+        },
+        "qty": 1
+      },
+      {
+        "id": 13,
+        "title": "R+Co DALLAS Biotin Thickening Shampoo (Various Sizes)",
+        "price": 97,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12901179-1534866391928052.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901179-1534866391928052.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901179-1124864482272583.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/960/960/12901179-1124864482272583.jpg",
+        "rating": {
+          "rate": 3.6,
+          "count": 654
+        },
+        "qty": 1
+      },
+      {
+        "id": 14,
+        "title": "Briogeo Scalp Revival Charcoal Coconut Oil Micro-Exfoliating Shampoo (8 oz.)",
+        "price": 98,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11447814-1144969821671793.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11447814-1144969821671793.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11447814-2084931368496076.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11447814-7584931367994566.jpg",
+        "rating": {
+          "rate": 3.8,
+          "count": 143
+        },
+        "qty": 1
+      },
+      {
+        "id": 15,
+        "title": "Briogeo Don't Despair Repair Super Moisture Shampoo (16 oz.)",
+        "price": 81,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11771542-1104931365592631.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11771542-1104931365592631.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11771542-1384931365707303.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11771542-6874931365757808.jpg",
+        "rating": {
+          "rate": 4.5,
+          "count": 154
+        },
+        "qty": 1
+      },
+      {
+        "id": 16,
+        "title": "R+Co TELEVISION Perfect Hair Conditioner (Various Sizes)",
+        "price": 84,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12902618-1674866426756777.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/960/960/12902618-1674866426756777.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/960/960/12902618-1674866426756777.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/960/960/12902618-1674866426756777.jpg",
+        "rating": {
+          "rate": 4.8,
+          "count": 176
+        },
+        "qty": 1
+      },
+      {
+        "id": 17,
+        "title": "Living Proof Perfect hair Day (PhD) Advanced Clean Dry Shampoo 2.4 oz.",
+        "price": 76,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/13175693-1054889419083984.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13175693-1054889419083984.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13175693-6754889419273008.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13175693-7604889419320366.jpg",
+        "rating": {
+          "rate": 4.6,
+          "count": 139
+        },
+        "qty": 1
+      },
+      {
+        "id": 18,
+        "title": "ghd Limited Edition Gle Smoothing Hot Brush - Orch Pink",
+        "price": 123,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/13841358-1424965573855987.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13841358-1424965573855987.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13841358-1864965573932103.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13841358-1864965573932103.jpg",
+        "rating": {
+          "rate": 4.5,
+          "count": 149
+        },
+        "qty": 1
+      },
+      {
+        "id": 19,
+        "title": "Living Proof Restore Repair Mask (6.7 fl. oz.)",
+        "price": 154,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12578298-1674930874184024.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12578298-1674930874184024.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12578298-1244864747319721.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12578298-1454768177620417.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 148
+        },
+        "qty": 1
+      },
+      {
+        "id": 20,
+        "title": "dpHUE Brightening Collection",
+        "price": 47,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/13882837-1164968958781790.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13882837-1164968958781790.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13882837-6764968958426932.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13882837-1484968958477602.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 129
+        },
+        "qty": 1
+      },
+      {
+        "id": 21,
+        "title": "Olaplex No. 7 Bonding Oil (1 fl. oz.)",
+        "price": 49,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12597166-1134871572767741.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12597166-1134871572767741.jpg",
+        "image2": "https://static.thcdn.com/images/small/webp//productimg/130/130/12597166-1134871572767741.jpg",
+        "image3": "https://static.thcdn.com/images/small/webp//productimg/130/130/12597166-9064947179213802.jpg",
+        "rating": {
+          "rate": 3.2,
+          "count": 191
+        },
+        "qty": 1
+      },
+      {
+        "id": 22,
+        "title": "Harry Josh Pro Tools Ceramic Flat Styling Iron 1.25 Inch (2 piece)",
+        "price": 109,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12915670-2114866566888004.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915670-2114866566888004.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915670-2114866566888004.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915670-2114866566888004.jpg",
+        "rating": {
+          "rate": 3.6,
+          "count": 134
+        },
+        "qty": 1
+      },
+      {
+        "id": 23,
+        "title": "Olaplex No. 3 Hair Perfector (3.3 fl. oz.)",
+        "price": 176,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12597161-1214871574856017.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12597161-1214871574856017.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12597161-1324871574894645.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12597161-1464879020318447.jpg",
+        "rating": {
+          "rate": 1.9,
+          "count": 231
+        },
+        "qty": 1
+      },
+      {
+        "id": 24,
+        "title": "Oribe Gold Lust Repair Restore Conditioner (6.8 fl. oz.)",
+        "price": 145,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12915558-2034917112938192.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915558-2034917112938192.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915558-5544944407869509.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915558-9704944406835499.jpg",
+        "rating": {
+          "rate": 2,
+          "count": 234
+        },
+        "qty": 1
+      },
+      {
+        "id": 25,
+        "title": "Harry Josh Pro Tools Pro Dryer 2000 3 piece",
+        "price": 123,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12918894-3264869708983022.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12918894-3264869708983022.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12918894-4764869709038048.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12918894-1054869709145907.jpg",
+        "rating": {
+          "rate": 4.7,
+          "count": 276
+        },
+        "qty": 1
+      },
+      {
+        "id": 26,
+        "title": "Olaplex No.6 100ml",
+        "price": 157,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/13601976-3864949597052111.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13601976-3864949597052111.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13601976-6544928082409725.jpg",
+        "image3": "https://static.thcdn.com/images/small/webp//productimg/130/130/13601976-4404947180155712.jpg",
+        "rating": {
+          "rate": 4.4,
+          "count": 321
+        },
+        "qty": 1
+      },
+      {
+        "id": 27,
+        "title": "Harry Josh Pro Tools Pro Makeup Wave Setting Clips (6 piece)",
+        "price": 139,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12902038-8134866432156213.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902038-8134866432156213.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902038-9744869708153615.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902038-1314869708199212.jpg",
+        "rating": {
+          "rate": 2.7,
+          "count": 345
+        },
+        "qty": 1
+      },
+      {
+        "id": 28,
+        "title": "Oribe Supershine Moisturizing Cream (5 fl. oz.)",
+        "price": 142,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/13312542-7854896430577544.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13312542-7854896430577544.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13312542-7854896430577544.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13312542-7854896430577544.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 577
+        },
+        "qty": 1
+      },
+      {
+        "id": 29,
+        "title": "Oribe Shampoo for Magnificent Volume (8.5 fl. oz.)",
+        "price": 164,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11310875-1284895711320479.jpg",
+        "image1": "https://static.thcdn.com/images/small/webp//productimg/original/11310875-1284895711320479.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11310875-1284895711320479.jpg",
+        "image3": "https://static.thcdn.com/images/small/webp//productimg/original/11310887-3714895711478810.jpg",
+        "rating": {
+          "rate": 3.8,
+          "count": 402
+        },
+        "qty": 1
+      },
+      {
+        "id": 30,
+        "title": "Harry Josh Pro Tools Pro Styling Clips (3)",
+        "price": 153,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12901616-2114864242036828.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901616-1094866428211318.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/600/600/12901616-1094866428211318.jpg",
+        "image3": "https://static.thcdn.com/images/small/webp//productimg/130/130/12901616-4004864242066855.jpg",
+        "rating": {
+          "rate": 4,
+          "count": 543
+        }
+      }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "image": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13657247-1244941045350220.jpg",
+        "price": 30,
+        "rating": {
+          "rate": 3.7,
+          "count": 76
+        },
+        "qty": 1
+      },
+      {
+        "id": 2,
+        "image": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13629480-5194951151586153.jpg",
+        "price": 59,
+        "rating": {
+          "rate": 3.7,
+          "count": 76
+        },
+        "qty": 1
+      },
+      {
+        "id": 3,
+        "image": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13623816-2074937178605466.jpg",
+        "price": 72,
+        "rating": {
+          "rate": 3.7,
+          "count": 76
+        },
+        "qty": 1
+      },
+      {
+        "id": 4,
+        "image": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13656371-7224949219395500.jpg",
+        "price": 40,
+        "rating": {
+          "rate": 3.7,
+          "count": 76
+        },
+        "qty": 1
+      },
+      {
+        "id": 5,
+        "image": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/13556035-1274949338049589.jpg",
+        "price": 34,
+        "rating": {
+          "rate": 3.7,
+          "count": 76
+        }
+      }
+]

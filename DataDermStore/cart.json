@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Alterna CAVIAR Anti-Aging Replenishing Moisture Shampoo (16.5 fl. oz.)",
+        "price": 56,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11286095-6314966113137112.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286095-6314966113137112.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286095-1294935519495258.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/11286095-7924966113197331.jpg",
+        "rating": {
+          "rate": 2.8,
+          "count": 58
+        },
+        "qty": 1
+      },
+      {
+        "id": 6,
+        "title": "Sol de Janeiro Brazilian Joia Dry Shampoo 120g",
+        "price": 37,
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12865580-1554866081885372.jpg",
+        "image1": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12865580-1554866081885372.jpg",
+        "image2": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12865580-1524866081937521.jpg",
+        "image3": "https://static.thcdn.com/images/large/webp//productimg/1600/1600/12865580-1764866082000125.jpg",
+        "rating": {
+          "rate": 3.4,
+          "count": 134
+        },
+        "qty": 1
+      }
+]
