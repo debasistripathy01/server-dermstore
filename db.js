@@ -9,6 +9,7 @@
 // const dermuserinfo = require("./DermStore/dermuserinfo.json");
 // const bookdetails = require("./React/abhishek_bookdetails.json");
 // const signupab = require("./React/abhishek_signup.json");
+const men = require("./DataDermStore/men.json")
 const products = require("./DataDermStore/products.json")
 // module.exports = {
 //   items,
@@ -25,5 +26,6 @@ const products = require("./DataDermStore/products.json")
 // };
 
 module.exports={
-    products
+    products,
+    men
 }
