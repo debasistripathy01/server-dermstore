@@ -12,7 +12,7 @@ const newarrivals = require("./DataDermStore/NewArrivals.json")
 const productsdata = require("./DataDermStore/productsData.json")
 const skincare = require("./DataDermStore/SkinCare.json")
 const trending = require("./DataDermStore/Trending.json")
-
+const total = require("./db.json");
 
 
 module.exports={
@@ -21,5 +21,6 @@ module.exports={
     cart,cartproduct, extradata, hair,neocutis, 
     newarrivals, productsdata, skincare, trending, 
     products,
-    men
+    men,
+    total
 }
