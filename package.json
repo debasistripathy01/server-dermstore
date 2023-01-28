@@ -4,15 +4,16 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-      "start": "node server.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "server": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-      "ninjakodtv, json-server,heroku, node, REST API"
+        "ninjakodtv, json-server,heroku, node, REST API"
     ],
     "author": "Debasis Tripathy",
     "license": "ISC",
     "dependencies": {
-      "json-server": "^0.17.0"
+        "json-server": "^0.17.0",
+        "nodemon": "^2.0.20"
     }
-  }
+}
